@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.719b5a76.css",
-    "main.js": "/static/js/main.831b910e.js",
-    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/index.html",
-    "main.719b5a76.css.map": "/static/css/main.719b5a76.css.map",
-    "main.831b910e.js.map": "/static/js/main.831b910e.js.map"
+    "main.css": "/gaming-test-website/static/css/main.b1388c5c.css",
+    "main.js": "/gaming-test-website/static/js/main.d216d787.js",
+    "static/media/img-2.jpg": "/gaming-test-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/gaming-test-website/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/gaming-test-website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/gaming-test-website/index.html",
+    "main.b1388c5c.css.map": "/gaming-test-website/static/css/main.b1388c5c.css.map",
+    "main.d216d787.js.map": "/gaming-test-website/static/js/main.d216d787.js.map"
   },
   "entrypoints": [
-    "static/css/main.719b5a76.css",
-    "static/js/main.831b910e.js"
+    "static/css/main.b1388c5c.css",
+    "static/js/main.d216d787.js"
   ]
 }
